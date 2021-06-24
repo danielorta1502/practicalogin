@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, #08cce6, #b606e2);
+}
+
+
+
+#login, #registro{
+    width: 50%;
+    border: 1px solid rgb(248, 247, 247);
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 30px;
+    background: rgb(139, 134, 134);
+    opacity: .8;
+    box-shadow: 10px 10px 10px 0px rgba(59, 37, 185, 0.5);
+}
+
+#link, #salir{
+    text-align: end;
+}
